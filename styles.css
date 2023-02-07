@@ -1,0 +1,53 @@
+body {
+  background-color: #121b24;
+  color: white;
+}
+
+.col-lg-6 {
+  text-align: center;
+  padding-top: 0.8rem;
+  border: #5946e8 4px solid;
+  border-radius: 10px;
+}
+
+p {
+  line-height: 1.8rem;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.h1 {
+  text-align: center;
+  background-color: #5946e8;
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+}
+
+.col {
+  padding: 0rem 1rem;
+}
+
+.img-fluid {
+  margin-bottom: 1rem;
+}
+
+.main-paragraph {
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.img-thumbnail {
+  background-color: #c81b77;
+  border-color: #c81b77;
+}
+
+mark {
+  background-color: #c81b77;
+  border-radius: 5px;
+}
